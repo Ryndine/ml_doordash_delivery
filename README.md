@@ -8,8 +8,6 @@ Build a model from historical data to predict the estimated time for a delivery.
 
 ## Data Exploration
 - Predict the total delivery duration
-    - 
-
 - Dollar values are in cents
 - Time values are in seconds and timestamp in UTC
 - CSV comes with store id's and categories
